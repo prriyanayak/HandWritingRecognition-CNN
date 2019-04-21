@@ -5,6 +5,7 @@
 This CNN-based model for recognition of hand written digits attains a validation accuracy of 99.2% after training for 12 epochs. Its trained on the MNIST dataset on Kaggle.
 
 ![1](http://i.imgur.com/4o8MTiT.png)
+
 ##Usage
 The model architecture and weights are saved in the files `model_architecture.json` and `model_weights.h5`. Note that these weights are compatible only with the Tensorflow backed.
 
